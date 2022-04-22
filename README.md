@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allycoderschool
-- 👀 I’m interested in ...
+- 👀 I’m interested in the Internet magic.
 - 🌱 I’m currently having fun with Web Development
 - 💞️ I’m looking to studying with you
 - 📫 How to reach me @CoderSchool yay!
